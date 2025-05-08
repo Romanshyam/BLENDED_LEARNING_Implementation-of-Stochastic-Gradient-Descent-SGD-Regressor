@@ -32,8 +32,8 @@ To write a program to implement Stochastic Gradient Descent (SGD) Regressor for 
 ```
 /*
 Program to implement SGD Regressor for linear regression.
-Developed by: DAKSHA C
-RegisterNumber:  212224230048
+Developed by: SHYAM KUMAR E 
+RegisterNumber:  212223230207
 */
  # Importing necessary libraries
  import pandas as pd
